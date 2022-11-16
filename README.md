@@ -16,17 +16,12 @@ I am Bruno Peres, also known as "TheLastMage". I'm a **Software Developer** and 
 - ULTRAKILL: maybe the best single player FPS ever made. I love you Hakita, never change.
 - Valorant: Shorty-Omen main.
 
-## 💾 Some of my tech knowledge
-- C and C++
-- Java and C#
-- GDScript
+## 💾 Tech Knowledge
 - GNU/Linux
+- GDScript
 - HTML/CSS
-- PHP
-- Javascript
-- SQL
 
-The list will grow the moment I remember the remaining of it.
+Currently learning C#
 
 ## 💪 Some quotes/advice I find useful
 > As a man you need to realize that you are responsible to everything good and bad that happens to you.
