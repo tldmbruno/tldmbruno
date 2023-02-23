@@ -1,16 +1,10 @@
 # 🪴 Hello!
-I am Bruno Peres. I'm a Angular and .NET developer, always learning, and writer of Mage's Hut Newsletter.
+I am Bruno Peres. I'm a Front-end React developer, always learning, and writer of Mage's Hut Newsletter.
+## Currently working on: PlanTODO
+![PlanTODO Screenshot](https://user-images.githubusercontent.com/118130235/220802359-08edf2cd-847c-4c2d-b934-7a90ccd513d0.png)
+[Link to repo](https://github.com/tldmbruno/plantodo)
 
-# 💾 Tech Knowledge
-I started programming since 11, now I am building my portifolio and re-learning some stuff.
-- Angular 14
-- C#
-- Typescript
-- HTML/CSS
-- GNU/Linux
-- GDScript
-
-## 📚 My interests, besides my profession
+## 📚 My interests, besides coding
 - Bullet Journaling.
 - Ayurveda, the ancient medicine.
 - Game Design focused in design by subtraction.
