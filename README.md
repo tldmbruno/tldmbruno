@@ -1,6 +1,7 @@
 # 🪴 Hello!
 I am Bruno Peres. I'm a Front-end React developer, always learning, and writer of Mage's Hut Newsletter.
 ## Currently working on: PlanTODO
+You can access it here: https://plantodo-web.netlify.com
 ![PlanTODO Screenshot](https://user-images.githubusercontent.com/118130235/220802359-08edf2cd-847c-4c2d-b934-7a90ccd513d0.png)
 [Link to repo](https://github.com/tldmbruno/plantodo)
 
