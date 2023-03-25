@@ -5,11 +5,12 @@ Born in 2000. Currently living on Brazil, Rio Grande do Sul.
 
 ---
 
-## 🪴 PlanTODO - Notetaking with unusual features
-- [Visit plantodo-web.netlify.com](https://plantodo-web.netlify.com)
-- [Source code](https://github.com/tldmbruno/plantodo)
+# Experience
 
-![image](https://user-images.githubusercontent.com/118130235/224802705-84bc97a7-aa10-4ea5-ae2d-3808879cd365.png)
+## 🪴 [PlanTODO](https://plantodo-web.netlify.com) - The elegant note taking app (with randomizer support)
+[Web page](https://plantodo-web.netlify.com) | [Source code](https://github.com/tldmbruno/plantodo)
+
+![image](https://user-images.githubusercontent.com/118130235/227668898-23763cb3-170b-452d-bc2e-7a40a90da054.png)
 
 ---
 
