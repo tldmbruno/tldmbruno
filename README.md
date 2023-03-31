@@ -7,6 +7,10 @@ Born in 2000. Currently living on Brazil, Rio Grande do Sul.
 
 # Experience
 
+Scroll to...
+- [PlanTODO](https://github.com/tldmbruno#-plantodo---the-elegant-note-taking-app-with-randomizer-support)
+- [MelonAI](https://github.com/tldmbruno#-melonai-wip---waterless-gpt)
+
 ## 🪴 [PlanTODO](https://plantodo-web.netlify.com) - The elegant note taking app (with randomizer support)
 [Web page](https://plantodo-web.netlify.com) | [Source code](https://github.com/tldmbruno/plantodo)
 
