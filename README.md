@@ -7,10 +7,11 @@ Born in 2000. Currently living on Brazil, Rio Grande do Sul.
 
 # Experience
 
-## 🌱 [PlanTODO](https://plantodo-web.netlify.com) - The elegant note taking app (with randomizer support)
-[Web page](https://plantodo-web.netlify.com) | [Source code](https://github.com/tldmbruno/plantodo)
+## 🌱 PlanTODO - The elegant note taking app
 
-![image](https://user-images.githubusercontent.com/118130235/227668898-23763cb3-170b-452d-bc2e-7a40a90da054.png)
+[Web page](https://plantodo-web.netlify.com) | [Source code](https://github.com/tldmbruno/plantodo) | React, TypeScript, CSS, JSON
+
+![PlanTODO Preview](https://user-images.githubusercontent.com/118130235/236585517-fabe4148-2767-4ae0-8114-f7437acfb13e.gif)
 
 ## 🍉 [MelonAI Prototype](https://github.com/tldmbruno/melon-ai) - 'Waterless' GPT
 [Source code](https://github.com/tldmbruno/melon-ai)
