@@ -7,7 +7,7 @@ Born in 2000. Currently living on Brazil, Rio Grande do Sul.
 
 # Experience
 
-## 🌱 PlanTODO - The elegant note taking app
+## 🌱 [PlanTODO](https://plantodo-web.netlify.com) - The elegant note taking app
 
 [Web page](https://plantodo-web.netlify.com) | [Source code](https://github.com/tldmbruno/plantodo) | React, TypeScript, CSS, JSON
 
