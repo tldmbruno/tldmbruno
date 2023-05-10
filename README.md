@@ -1,11 +1,14 @@
-# 👋 Hello! I'm Bruno Peres
-I'm a Front-End React developer and writer of Mage's Hut Newsletter.
+# 👋 Hello! I'm Bruno Peres... and I'm NOT a Front-end web developer!
 
-Born in 2000. Currently living on Brazil, Rio Grande do Sul.
+You arrived at strange times, mate. Strange times indeed. 🦜
+
+What happened? Well... Let's just say...
+
+...I really liked designing web sites, using React and Angular as well. I used TypeScript and I've just finished my first real project (PlanTODO). Things were going pretty well, no big frustration or anything. The problem arrived when I had some time to think about my dreams and my goals in life. Front-end development doesn't use the same tools as game development, so I realized if I wanted to make my dream game in the future, I would have to hone different skills, some contradicting with each other. There's no real synergy amongst gamedev and webdev. After talking with my family I decided to switch gears and go directly towards my life goals, instead of taking sharp and inconsistent turns. Now there will be synergy amongst my hobby and my job, since they require the same skills and tools.
 
 ---
 
-# Experience
+# Experience (now partially irrelevant)
 
 ## 🌱 [PlanTODO](https://plantodo-web.netlify.com) - The elegant note taking app
 
@@ -13,18 +16,13 @@ Born in 2000. Currently living on Brazil, Rio Grande do Sul.
 
 ![PlanTODO Preview](https://user-images.githubusercontent.com/118130235/236585517-fabe4148-2767-4ae0-8114-f7437acfb13e.gif)
 
-## 🍉 [MelonAI Prototype](https://github.com/tldmbruno/melon-ai) - 'Waterless' GPT
-[Source code](https://github.com/tldmbruno/melon-ai)
-
-![image](https://user-images.githubusercontent.com/118130235/229019669-bbb72fad-abbb-4ddd-8714-0e7981d98f99.png)
-
 ---
 
 ## 📚 My interests, besides coding
 - Bullet Journaling.
 - Classical Music.
 - Ayurveda, the ancient medicine.
-- Game Design focused in design by subtraction.
+- Game Design focused in design by subtraction. 👈
 - Good fiction writing that focus on character instead of plot.
 - Tabletop RPGs that follows the OSR and FKR philosophy.
 - Minimalism and organizational advice.
