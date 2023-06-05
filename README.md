@@ -2,3 +2,5 @@
 
 My personal website and portfolio:
 # 👉 [tldmbruno.vercel.app](https://tldmbruno.vercel.app)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tldmbruno&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
